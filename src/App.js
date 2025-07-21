@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronRight, Activity, Shield, Settings, TrendingUp, AlertCircle, Monitor, BarChart3, ShoppingCart, Bell, History, Globe, User, Send, Copy, Maximize2, RefreshCw, Download, Upload, HelpCircle, CheckCircle, XCircle, Zap, Cpu, HardDrive, Wifi, Lock, Bot, Home, Search, FileText, Phone, X, Plus, Minus, AlertTriangle, ArrowUp, LogOut, ChevronDown, Info, Eye, EyeOff, Clock, Calendar, Server, PieChart, TrendingDown, DollarSign, ArrowUpRight, ArrowDownRight, Users, MessageSquare, Newspaper, LineChart, BarChart, Target, Award, Briefcase } from 'lucide-react';
-import React, { useState, useEffect } from 'react';
-import { ChevronRight, Activity, Shield, Settings, TrendingUp, AlertCircle, Monitor, BarChart3, ShoppingCart, Bell, History, Globe, User, Send, Copy, Maximize2, RefreshCw, Download, Upload, HelpCircle, CheckCircle, XCircle, Zap, Cpu, HardDrive, Wifi, Lock, Bot, Home, Search, FileText, Phone, X, Plus, Minus, AlertTriangle, ArrowUp, LogOut, ChevronDown, Info, Eye, EyeOff, Clock, Calendar, Server, PieChart, TrendingDown, DollarSign, ArrowUpRight, ArrowDownRight, Users, MessageSquare, Newspaper, LineChart, BarChart, Target, Award, Briefcase } from 'lucide-react';
 
 const WikiFXVPS = () => {
   // 动画样式
